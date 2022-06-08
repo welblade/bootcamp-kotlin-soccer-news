@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_twotone_inventory.xml" value="0.166" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.203125" />
         <entry key="app/src/main/res/layout/fragment_archive.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/item_newslist.xml" value="0.38443935926773454" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20260416666666667" />
+        <entry key="app/src/main/res/layout/item_newslist.xml" value="0.33" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.203125" />
       </map>
     </option>

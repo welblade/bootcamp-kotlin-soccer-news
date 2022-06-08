@@ -3,4 +3,8 @@
     <string name="title_home">News</string>
     <string name="archive">Archive</string>
     <string name="archived_news">Archived News</string>
+    <string name="new_s_image">New\'s Image</string>
+    <string name="open_in_the_browser">Open in the browser</string>
+    <string name="read_latter">Read latter</string>
+    <string name="share_the_article">Share the article</string>
 </resources>
